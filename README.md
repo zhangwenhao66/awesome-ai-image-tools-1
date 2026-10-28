@@ -12,6 +12,8 @@ A curated list of AI-powered image generation and editing tools, organized by us
 
 ## Photo Enhancement
 
+- [Ideoy](https://ideoy.ai) — AI photo-to-video meme templates: turn a selfie into short vertical remakes of trending memes.
+
 - **[Crevisto Photo Restoration](https://crevisto.com/tools/photo-restoration)** — restore old and damaged photos
 - **[Crevisto Background Remover](https://crevisto.com/tools/background-remover)** — one-click background removal
 - **[Crevisto Image Upscaler](https://crevisto.com/tools/image-upscaler)** — upscale images without quality loss
